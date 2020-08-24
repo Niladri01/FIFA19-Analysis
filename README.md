@@ -44,20 +44,20 @@ Steps
 10)Imported some videos of goals, passing, saving of top players such as Lionel Messi, Xavi, Iniesta, Ronaldo from youtube
 
 For Data Visualization, I used:
-1) Countplot
-2) lmplot
-3) violinplot
-4) boxplot
-5) subplot
-6) pie
-7) distplot
+                          1) Countplot
+                          2) lmplot
+                          3) violinplot
+                          4) boxplot
+                          5) subplot
+                          6) pie chart
+                          7) distplot
 
-Conclusion : 
-a) Lionel Messi is highly rated in many aspects of the gaming attributes
-b) Real Madrid posses the best squad strength
-c) Neymar is most valuable player at the moment
-d) Mbappe has the best potential
-e) David De Gea of Manchester United is the highest rated goalkeeper in FIFA19
-e) England National team has most number of FIFA19 rated players
-f) There are more right footed player's compared to left footed player's
-g) Most player's are of age 21
+# Conclusion : 
+                          a) Lionel Messi is highly rated in many aspects of the gaming attributes
+                          b) Real Madrid posses the best squad strength
+                          c) Neymar is most valuable player at the moment
+                          d) Mbappe has the best potential
+                          e) David De Gea of Manchester United is the highest rated goalkeeper in FIFA19
+                          e) England National team has most number of FIFA19 rated players
+                          f) There are more right footed player's compared to left footed player's
+                          g) Most player's are of age 21
