@@ -1,18 +1,18 @@
 # FIFA19-Analysis
 
-#FOR MANUPULATION
-import numpy as np
-import pandas as pd
+# FOR MANUPULATION
+                  import numpy as np
+                  import pandas as pd
 
-#FOR VISUALIZATION
-import seaborn as sns
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-import plotly as py
-import plotly.graph_objs as go
-import seaborn as sns
-from IPython.display import display, HTML, YouTubeVideo
-from collections import Counter as counter
+# FOR VISUALIZATION
+                  import seaborn as sns
+                  import matplotlib.pyplot as plt
+                  import matplotlib.image as mpimg
+                  import plotly as py
+                  import plotly.graph_objs as go
+                  import seaborn as sns
+                  from IPython.display import display, HTML, YouTubeVideo
+                  from collections import Counter as counter
 
 Shape of the dataset : (18207, 89)
 
