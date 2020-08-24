@@ -1,10 +1,10 @@
 # FIFA19-Analysis
 
-# FOR MANUPULATION
+## FOR MANUPULATION
                   import numpy as np
                   import pandas as pd
 
-# FOR VISUALIZATION
+## FOR VISUALIZATION
                   import seaborn as sns
                   import matplotlib.pyplot as plt
                   import matplotlib.image as mpimg
@@ -52,7 +52,7 @@ For Data Visualization, I used:
                           6) pie chart
                           7) distplot
 
-# Conclusion : 
+## Conclusion : 
                           a) Lionel Messi is highly rated in many aspects of the gaming attributes
                           b) Real Madrid posses the best squad strength
                           c) Neymar is most valuable player at the moment
