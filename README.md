@@ -1,10 +1,10 @@
-# FIFA19-Analysis
+# FIFA19-EDA
 
-*Aim:* 
+*Aim:* The aim of this project was to prepare the dataset for exploratory data analysis, rapid data visualization and analysis, customize charts, animations, and demonstrate the various matplotlib and seaborn features.
 
 ## Overview
 
-*FIFA-19:* FIFA-19 is a football simulation game developed by *Electronic Arts* , Vancouver. It's massively popular game among all ages. It comes in different setup's such as Playstation, and Mobile devices. This game contains all FIFA registered players, and are grouped by different club, naionalities and attributes.
+*FIFA-19:* FIFA-19 is a football simulation game developed by *Electronic Arts* , Vancouver. It's massively popular game among all ages. It comes in different setup's such as Playstation, and Mobile devices. This game contains all FIFA (*Fédération Internationale de Football Association*) registered players, and are grouped by different clubs, naionalities and attributes.
 
 ## FOR MANUPULATION
        import numpy as np
