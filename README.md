@@ -1,5 +1,11 @@
 # FIFA19-Analysis
 
+*Aim:* 
+
+## Overview
+
+*FIFA-19:* FIFA-19 is a football simulation game developed by *Electronic Arts* , Vancouver. It's massively popular game among all ages. It comes in different setup's such as Playstation, and Mobile devices. This game contains all FIFA registered players, and are grouped by different club, naionalities and attributes.
+
 ## FOR MANUPULATION
        import numpy as np
        import pandas as pd
@@ -43,7 +49,8 @@
                                  j) Distribution of Player's skill moves
 
        9) Imported club logos, player images, coach/manager's images, using matplotlib.image as mpimg module
-       10)Imported some videos of goals, passing, saving of top players such as Lionel Messi, Xavi, Iniesta, Ronaldo from youtube
+       10)Imported some videos of goals, passing, saving of top players such as Lionel Messi, Xavi, 
+       Iniesta, Ronaldo from youtube
 
 ## For Data Visualization, I used:
        1) Countplot
